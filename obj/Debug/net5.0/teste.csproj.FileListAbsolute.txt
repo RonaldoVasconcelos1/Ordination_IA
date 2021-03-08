@@ -1,0 +1,16 @@
+C:\Users\ronal\Desktop\teste\bin\Debug\net5.0\teste.exe
+C:\Users\ronal\Desktop\teste\bin\Debug\net5.0\teste.deps.json
+C:\Users\ronal\Desktop\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\ronal\Desktop\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\ronal\Desktop\teste\bin\Debug\net5.0\teste.dll
+C:\Users\ronal\Desktop\teste\bin\Debug\net5.0\ref\teste.dll
+C:\Users\ronal\Desktop\teste\bin\Debug\net5.0\teste.pdb
+C:\Users\ronal\Desktop\teste\obj\Debug\net5.0\teste.csprojAssemblyReference.cache
+C:\Users\ronal\Desktop\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\Desktop\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\ronal\Desktop\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\ronal\Desktop\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Desktop\teste\obj\Debug\net5.0\teste.dll
+C:\Users\ronal\Desktop\teste\obj\Debug\net5.0\ref\teste.dll
+C:\Users\ronal\Desktop\teste\obj\Debug\net5.0\teste.pdb
+C:\Users\ronal\Desktop\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache
